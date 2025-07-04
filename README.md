@@ -150,6 +150,7 @@ If you want to understand the methodology without collecting new data:
    - Results are then fed into the collective analysis
 
 ### Analysis Pipeline
+![Workflow Diagram](./images/workflow_diagram.png)
 The system processes data through three main stages:
 1. **Video Processing**: Frame extraction and marker detection
 2. **Tracking**: Nearest-neighbor algorithm with anatomical constraints  
@@ -164,6 +165,8 @@ The system processes data through three main stages:
 ## Repository Structure
 
 ```
+├── images/
+│   └── workflow_diagram.png
 ├── Collective Gait Analysis.R          # Cross-subject statistical analysis
 ├── S2_2_5_PD.R                         # Individual condition scripts
 ├── S2_2_5_limp.R                       #   ↳ Process single video files
