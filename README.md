@@ -25,7 +25,7 @@ A low-cost, marker-based smartphone system for distinguishing normal and patholo
 This project demonstrates that a smartphone-based marker system can effectively detect and quantify differences between normal and simulated pathological gait patterns, achieving 94.4% accuracy in distinguishing between normal, limping, and Parkinsonian gait conditions.
 
 **Why did I build this project?**
-Traditional gait analysis systems cost tens of thousands of pounds and require specialized laboratory settings, making quantitative gait assessment inaccessible to many clinics and research facilities. This project bridges the gap by creating an affordable alternative that maintains clinical-grade accuracy.
+Traditional gait analysis systems cost tens of thousands of pounds and require specialised laboratory settings, making quantitative gait assessment inaccessible to many clinics and research facilities. This project bridges the gap by creating an affordable alternative that maintains clinical-grade accuracy.
 
 **What problem does it solve?**
 - Makes quantitative gait analysis accessible to resource-limited settings
@@ -37,7 +37,7 @@ Traditional gait analysis systems cost tens of thousands of pounds and require s
 - Developed expertise in computer vision and marker tracking algorithms
 - Gained deep understanding of biomechanics and gait analysis
 - Learned to create robust statistical models for medical data
-- Strengthened knowledge of R programming for complex data analysis and visualization
+- Strengthened knowledge of R programming for complex data analysis and visualisation
 
 **What makes this project stand out?**
 - **99% cost reduction** compared to traditional motion capture systems
@@ -113,7 +113,7 @@ source("S5_complete_analysis.R")   # Consolidates all S5 conditions
 
 4. **Run the collective analysis:**
 ```r
-# Step 3: Analyze all subjects together
+# Step 3: Analyse all subjects together
 source("Collective Gait Analysis.R")   # Cross-subject statistical analysis
 ```
 
@@ -226,7 +226,7 @@ The system processes data through three main stages:
 - Home-based assessment programs
 
 ### Advantages Over Traditional Systems
-- **Accessibility**: No specialized lab required
+- **Accessibility**: No specialised lab required
 - **Cost-effective**: Under £1000 vs £10,000+ traditional systems
 - **Portability**: Can be used in various environments
 - **User-friendly**: Minimal technical training required
