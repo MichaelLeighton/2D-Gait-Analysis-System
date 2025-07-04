@@ -72,6 +72,7 @@ install.packages(c(
 ```
 
 ### Hardware Setup
+![Marker Placement For Each Gait](./images/markers.png)
 1. Mount smartphone 3 meters from subject at hip height
 2. Attach markers to anatomical landmarks:
    - Greater trochanter (hip)
