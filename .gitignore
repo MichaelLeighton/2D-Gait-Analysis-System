@@ -1,0 +1,7 @@
+# Data files
+*.rds
+*.csv
+gait_analysis/
+*.png
+*jpg
+.DS_Store
