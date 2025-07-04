@@ -74,7 +74,7 @@ install.packages(c(
 ### Hardware Setup
 ![Marker Placement For Each Gait](./images/markers.png)
 1. Mount smartphone 3 meters from subject at hip height
-2. Attach markers to anatomical landmarks:
+2. Attach markers to anatomical landmarks (as shown in image above for each gait: A) Normal; B) Limping; C) Parkinsonian) :
    - Greater trochanter (hip)
    - Lateral femoral epicondyle (knee)
    - Lateral malleolus (ankle)
@@ -167,6 +167,7 @@ The system processes data through three main stages:
 
 ```
 ├── images/
+│   ├── markers.png
 │   └── workflow_diagram.png
 ├── Collective Gait Analysis.R          # Cross-subject statistical analysis
 ├── S2_2_5_PD.R                         # Individual condition scripts
